@@ -1,0 +1,8 @@
+title: Daniel's Portfolio
+description: AI创业者 · 技术实践者 · 产品思考者
+theme: minima
+markdown: kramdown
+permalink: /:categories/:title/
+github:
+  name: danielin
+  repo: danielin.github.io
