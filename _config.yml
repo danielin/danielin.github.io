@@ -22,4 +22,4 @@ show_excerpts: true
 collections:
   notes:
     output: true
-    permalink: /:path/
+    permalink: /notes/:name/
