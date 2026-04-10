@@ -2,7 +2,6 @@
 layout: post
 title: "IPD：制造业转型的研发管理新范式"
 date: 2026-04-10
-categories: [posts, thoughts]
 tags: [IPD, 制造业, 企业管理, AI转型]
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "华为IPD：一页纸精简版"
 date: 2026-04-10
-categories: [notes]
 tags: [IPD, 华为, 产品管理, 制造业]
 ---
 
